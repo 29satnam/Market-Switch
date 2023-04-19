@@ -2,7 +2,7 @@
 page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1494197457  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 6447775453  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: # Enter Google Play Store URL.
@@ -16,7 +16,7 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 
 # Information About Yourself
 your_name: Satnam Singh
-your_link: https://kevapp.co/
+your_link: https://silverseahog.co/
 your_city:
 email_address:
 facebook_username:
@@ -27,16 +27,16 @@ youtube_username:
 
 # Feature List (Edit, add or remove features to be presented.)
 features:
-  - title: Real-time Temperature
-    description: Gets you color temperature in Kelvin in real-time.
+  - title: Switch App Store Market
+    description: Instantly change App Store market with a single tap
     fontawesome_icon_name: thermometer-full
 
-  - title: Compensation and Calculation
-    description: Ability to compensate and calculate the white balance readings.
+  - title: Add and Open Apps
+    description: You don't have to search your app on the App Store, open with single tap
     fontawesome_icon_name: calculator
 
-  - title: Integral
-    description: Minimal yet integral point and shoot capability. A go-to light meter for photographers and videographers.
+  - title: Widgets
+    description: You don't even have to open the app, just tap on widget to Switch Country.
     fontawesome_icon_name: star
 
 # Theme Settings
